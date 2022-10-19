@@ -1,4 +1,4 @@
-// compilation cmd- g++ -lGL -lGLU -lglut filename.cpp -o filename
+//cmd- g++ -lGL -lGLU -lglut filename.cpp -o filename
 #include <math.h>
 #include <GL/glut.h>
 #include <stdio.h>
